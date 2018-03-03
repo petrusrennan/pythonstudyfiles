@@ -36,7 +36,7 @@ while(senha!=password):
                         
         if(senha==keylogger):
                 print("Analisando senhas impróprias...")
-                if(password=="gay"):
+                if(password=="babaca"):
                         print("SENHA IMPRÓPRIA DETECTADA! SENHA PADRÃO REDEFINIDA!")
                         password="tacos"
                 else:
