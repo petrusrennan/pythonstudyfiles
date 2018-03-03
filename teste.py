@@ -1,9 +1,8 @@
 #INTERFACE GRÁFICA#
+print("------------------------------")
 print("CRISTAL DATABASES")
 print("Taking Care Of Your Business!")
 print("Sistema desenvolvido por Petrus Rennan.")
-print("------------------------------")
-print("##############################")
 print("------------------------------")
 print("")
 print("------------------------------------------------------")
